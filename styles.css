@@ -1,0 +1,23 @@
+#text-wrapper {
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 10px;
+}
+#btn-cont {
+    width: 100%;
+    display: block;
+    position: relative;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align: center;
+    height: auto;
+}
+#clear-canvas {
+    font-family: Volkorn;
+    cursor: pointer;
+    max-width: 180%;
+    max-height: 100%;
+    font-size: 100%;
+    text-align: center;
+}
